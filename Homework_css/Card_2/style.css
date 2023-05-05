@@ -1,0 +1,40 @@
+
+
+
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.articles {
+    margin-top: 100px;
+   
+}
+
+.articles img {
+    width: 200px;
+    height: 140px;
+    display: block;
+    margin: 0 auto;
+}
+
+.articles article {
+    display: inline-block;
+    padding: 10px;
+    margin-bottom: 5px;
+    width: 16%;
+    height: 400px;
+}
+
+.articles p {
+    font-size: 10px;
+    max-height: 250px;
+    width: 200px;
+   
+}
+
+.articles h3 {
+    text-align: left;
+    font-size: 10px;
+}
