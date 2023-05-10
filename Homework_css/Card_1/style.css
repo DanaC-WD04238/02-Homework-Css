@@ -1,0 +1,96 @@
+
+
+
+.block-container {
+    max-width: 1200px;
+    
+}
+
+.block-container div {
+    display: inline-block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 30%;
+    line-height: 1;
+    padding: 10px;
+    margin-block: 10px;
+ 
+}
+
+ p {
+    font-size: 10px;
+    width: 290px;
+ }
+
+ h6 {
+    font-size: 5px bold;
+    padding: 1px;
+    margin-block: 10px;
+ }
+
+
+.block-kitten  {
+    border-right: 2px solid grey;
+    border-bottom: 1px solid grey;
+    
+}
+    
+.block-caracal {
+    border-right: 2px solid grey;
+    border-bottom: 1px solid grey;
+    
+}
+
+.block-puppy {
+    border-bottom: 1px solid grey;
+}
+
+.block-game {
+    border-right: 2px solid grey;
+   
+}
+
+.block-planet {
+    border-right: 2px solid grey;
+   
+}
+
+.cat-image {
+    width: 60px;
+    height: 60px;
+    
+        
+}
+   
+.caracal-image {
+    width: 60px;
+    height: 50px;
+}
+
+
+
+.puppy-image {
+    width: 50px;
+    height: 50px;
+   
+}
+
+
+.game-image {
+    width: 60px;
+    height: 50px;
+    
+}
+
+
+.planet-image {
+    width: 60px;
+    height: 50px;
+    
+}
+
+
+.earth-image {
+    width: 60px;
+    height: 50px;
+    
+}
